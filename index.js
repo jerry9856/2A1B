@@ -16,7 +16,7 @@ window.addEventListener('load', function () {
         }
     }
 
-    console.log(answer);
+    // console.log(answer);
 
     document.querySelectorAll('button.number').forEach(item => {
         item.addEventListener('click', event => {

@@ -1,0 +1,81 @@
+.number {
+  background-color: #f6ff7e;
+  border: 2px solid #000000;
+  color: black;
+  padding: 15px 32px;
+  margin-top: 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  width: 30%;
+}
+
+.number:hover {
+  background-color: #bfffac;
+  border: 2px solid #000000;
+  color: black;
+  padding: 15px 32px;
+  margin-top: 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  width: 30%;
+}
+
+#button-DEL {
+  background-color: #f6ff7e;
+  border: 2px solid #000000;
+  color: black;
+  padding: 15px 32px;
+  margin-top: 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  width: 30%;
+}
+
+#button-DEL:hover {
+  background-color: #bfffac;
+  border: 2px solid #000000;
+  color: black;
+  padding: 15px 32px;
+  margin-top: 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  width: 30%;
+}
+
+#button-GO {
+  background-color: #f6ff7e;
+  border: 2px solid #000000;
+  color: black;
+  padding: 15px 32px;
+  margin-top: 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  width: 30%;
+}
+
+#button-GO:hover {
+  background-color: #bfffac;
+  border: 2px solid #000000;
+  color: black;
+  padding: 15px 32px;
+  margin-top: 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  width: 30%;
+}
+
+#resultbox {
+  text-align: center;
+}
